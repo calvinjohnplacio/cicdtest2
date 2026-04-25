@@ -1,3 +1,3 @@
-<body style="background-color:black;color:yellow">
+<body style="background-color:yellow;color:red">
 <?php echo "Threeeee" ?>
 </body>
